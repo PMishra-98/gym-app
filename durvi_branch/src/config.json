@@ -1,0 +1,10 @@
+{
+    "loginPage":"https://durvi-fitness.herokuapp.com/branch/login",
+    "login":"https://durvi-fitness.herokuapp.com/api/common/login",
+    "registerNewUser":"https://durvi-fitness.herokuapp.com/api/branch/registerNewUser",
+    "branchDetails":"https://durvi-fitness.herokuapp.com/api/common/branchDetails",
+    "userDetails":"https://durvi-fitness.herokuapp.com/api/common/userDetails",
+    "userEdit":"https://durvi-fitness.herokuapp.com/api/common/editRegisteredUser",
+    "userPayment":"https://durvi-fitness.herokuapp.com/api/common/paymentUser",
+    "sendMessage":"https://durvi-fitness.herokuapp.com/api/common/customMessageSend"
+}

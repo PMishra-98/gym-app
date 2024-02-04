@@ -1,0 +1,26 @@
+.form-control{
+   background-color: #f0f0f0;
+    border: solid lightgrey;
+    border-radius: 8px;
+    outline: none;
+ }
+ .color{
+    background-image: linear-gradient(+190deg, #43cea2  20%, #185a9d  80%);
+ }
+ .bg1{
+    background-image:linear-gradient(360deg,#7f7d12  10%, #d70a84 90%);
+ }
+ /* .bg{
+    width:100%;
+    height: 100%;
+    align-items: center;
+    color: rgb(230, 21, 21);
+ } */
+ .Login-component {
+    /* The image used */
+    background-image: url("https://img.freepik.com/free-photo/young-fitness-man-studio_7502-5008.jpg?size=626&ext=jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size:cover;
+ 
+ }
